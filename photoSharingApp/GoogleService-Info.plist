@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>118367231020-9v9u0144rk4h9mu0cr5vvlef3h9mn82c.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.118367231020-9v9u0144rk4h9mu0cr5vvlef3h9mn82c</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBsNigLNArU60dTHkD3flRl3ewJmx9r3DY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>118367231020</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.farukcansiz.photoSharingApp</string>
+	<key>PROJECT_ID</key>
+	<string>photosharingapp-319ed</string>
+	<key>STORAGE_BUCKET</key>
+	<string>photosharingapp-319ed.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:118367231020:ios:b38474ba2e5744ebb88589</string>
+</dict>
+</plist>
